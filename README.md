@@ -1,2 +1,2 @@
 # calc
-A functional calculator(addition, subtraction multiplication and division)
+A basic functional calculator(addition, subtraction multiplication and division)
